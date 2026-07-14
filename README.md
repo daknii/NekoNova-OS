@@ -1,8 +1,8 @@
 # NekoNova OS
 
-NekoNova OS is an experimental Android-based project exploring a desktop-inspired mobile experience.
+NekoNova OS is an experimental Android-based project exploring a desktop-like mobile experience.
 
-Instead of treating phones as simple app containers, NekoNova reimagines Android as a lightweight productivity environment with advanced multitasking, window management, and PC-like workflows.
+In contrast to standard smartphones that are nothing more than a collection of apps, NekoNova reimagines Android as a lightweight productivity environment with advanced multitasking, window management, and PC-like workflows.
 
 ## Goals
 
@@ -25,4 +25,4 @@ Instead of treating phones as simple app containers, NekoNova reimagines Android
 
 🟡 Planning
 
-Currently exploring Android internals, system architecture, and the best approach for building the NekoNova experience.
+Learning Android internals, system architecture, and the best approach for building the NekoNova experience.
