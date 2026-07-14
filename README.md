@@ -1,8 +1,8 @@
-# NekoFold
+# NekoNova OS
 
-NekoFold is an experimental Android project that explores a new way of multitasking on single-screen devices.
+NekoNova OS is an experimental Android project that explores a new way of multitasking on single-screen devices.
 
-Instead of traditional split-screen, NekoFold introduces persistent workspaces that adapt to portrait and landscape orientations.
+NekoNova OS reimagines the way you use an Android device, giving access to windows similar to desktops.
 
 ## Goals
 
