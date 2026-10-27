@@ -1,28 +1,27 @@
 # NekoNova OS
 
-NekoNova OS is an experimental Android-based project exploring a desktop-like mobile experience.
+### Nightcore, Frutiger Aero, Gen X Soft Club
 
-In contrast to standard smartphones that are nothing more than a collection of apps, NekoNova reimagines Android as a lightweight productivity environment with advanced multitasking, window management, and PC-like workflows.
+**Modern. Human-made. No AI.**
 
-## Goals
+*Do you like AI slop?*\
+*Neither do we.*\
+**NekoNova OS.**
 
-- Better multitasking
-- Productivity-focused mobile workflows
-- Study and creative workflows
-- Android framework experimentation
-- Learning Android internals
+NekoNova is an experimental Linux project made to catch nostalgia, but mixed with a little drop of modernism. Lately I keep getting recommended AI-generated operating systems, but although they look cool and modern, they didn't have a soul. 
 
-## Planned Features
+## Vibes
 
-- Desktop-style window management
-- Resizable applications
-- Multi-window workflows
-- Workspace system
-- Keyboard and mouse support
-- Custom productivity tools
+Although I wasn't alive for most of this time, I always was really attracted to the 2000s and 2010s. So many aesthetics captivated me and made me dislike the era I was in. I used Windows 7 for a long time of my life and it just had a different vibe. I used to listen to Nightcore remixes (I still do) and all those artworks and sound made me feel like a different world. When I grew up and started to discover new things, I fell in love with the aesthetic Gen X Soft Club and it shaped the person I am.
 
-## Current Status
+NekoNova is my attempt to put all my feelings in the internet, through my (not) good skills of coding.
 
-🟡 Planning
+NekoNova is planned to have three themes/modes, each catching a different part from my nostalgia:
 
-Learning Android internals, system architecture, and the best approach for building the NekoNova experience.
+### Nightcore
+
+### Frutiger Aero
+
+### Gen X Soft Club
+
+
